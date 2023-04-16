@@ -1,2 +1,12 @@
+*.avi
+*.mp4
+*.webm
+*.yaml
 /.direnv/
+/audio/
+/characters/
+/codes/
+/images/
+/screenshots/
+
 
